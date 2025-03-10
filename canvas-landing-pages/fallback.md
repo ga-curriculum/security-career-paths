@@ -12,10 +12,10 @@ In this module, students will develop a strategic approach to cybersecurity care
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Career Paths](../career-paths/README.md)                          | -- | Where can the Security+ take you? |
-| [Choosing Your Career Path](../choosing-your-career-path/README.md)                    | -- | How to choose the path that's best for you.                |
-| [Long Term Career Planning](../microlesson-01/README.md) | -- | Plan your future and how you'll get there.               |
-| [Additional Resources](../additional-resources/README.md) | -- | Additional resources to help you in your career journey.               |
+| [Career Paths](../career-paths/README.md)                          | 20 min | Where can the Security+ take you? |
+| [Choosing Your Career Path](../choosing-your-career-path/README.md)                    | 10 min | How to choose the path that's best for you.                |
+| [Long Term Career Planning](../microlesson-01/README.md) | 10 min | Plan your future and how you'll get there.               |
+| [Additional Resources](../additional-resources/README.md) | 5 min | Additional resources to help you in your career journey.               |
 | **Total content**                                   | 45 min |                                     |
 
 ## References
