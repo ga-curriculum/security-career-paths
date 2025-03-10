@@ -1,26 +1,22 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Security Career Paths</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+In this module, students will develop a strategic approach to cybersecurity career planning by exploring certification-based pathways, aligning personal interests with job roles, understanding long-term progression options, and utilizing industry resources to make informed career decisions.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
+| [Career Paths](../career-paths/README.md)                          | -- | Where can the Security+ take you? |
+| [Choosing Your Career Path](../choosing-your-career-path/README.md)                    | -- | How to choose the path that's best for you.                |
+| [Long Term Career Planning](../microlesson-01/README.md) | -- | Plan your future and how you'll get there.               |
+| [Additional Resources](../additional-resources/README.md) | -- | Additional resources to help you in your career journey.               |
+| **Total content**                                   | 45 min |                                     |
 
 ## References
 
